@@ -1,0 +1,18 @@
+@using crud;
+@{
+    ViewData["Title"] = "Crudcontact Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @{
+        Crudcontact list=ViewBag.find;
+            <div>
+                <h1>@list.id</h1><br>
+                <h4>@list.name</h4><br>
+                <h5>@list.email</h5><br>
+                <h5>@list.contact</h5><br>
+            </div>
+    }
+</div>

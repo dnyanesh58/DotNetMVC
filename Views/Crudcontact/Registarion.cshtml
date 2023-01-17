@@ -1,0 +1,28 @@
+@using crud;
+@model Crudcontact;
+
+<h2>Insert new contact</h2>
+<hr/>
+<form method="post" action="/Crudcontact/insert">
+<div class="form-group">
+    <label for="cid">ID:</label>
+    <input type="text" id="cid" class="form-control" asp-for="id">
+  </div>
+  <div class="form-group">
+    <label for="nm">NAME:</label>
+    <input type="text" id="nm" class="form-control" asp-for="name">
+  </div>
+  <div class="form-group">
+    <label for="em">EMAIL:</label>
+    <input type="text" id="em" class="form-control" asp-for="email">
+  </div>
+  <div class="form-group">
+    <label for="cont">CONTACT:</label>
+    <input type="text" id="cont" class="form-control" asp-for="contact">
+  </div>
+ <div class="form-group">
+   <button type="submit" class="btn btn-danger">Submit</button>
+  </div>
+ 
+</form>
+

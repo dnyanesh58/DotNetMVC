@@ -1,0 +1,27 @@
+﻿@using crud;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @{
+        List<Crudcontact> list=ViewBag.insert;
+            <table>
+                <tr>
+                    <th>Id</th><th>Name</th><th>Email</th><th>Contact</th>
+                </tr>
+           
+            @foreach(Crudcontact v in list){
+                    <tr>
+                        <td>@v.id</td><td>@v.name</td><td>@v.email</td><td>@v.contact</td>
+                        <td><button type="button" ><a href="/Crudcontact/update/@v.id"/>Edit</button></td>
+                        <td><a href="/Crudcontact/delete/@v.id">DELETE</a> </td>
+                        <td><a href="/Crudcontact/find/@v.id">view</a> </td>
+                    </tr>
+            }
+             </table>
+            
+    }
+</div>

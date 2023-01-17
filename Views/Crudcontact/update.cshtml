@@ -1,0 +1,29 @@
+@using crud;
+@model Crudcontact;
+<h2>Update Contact</h2>
+<hr/>
+@{
+    Crudcontact e=ViewBag.update;
+}
+<form method="post" action="/Crudcontact/updatee">
+<div class="form-group">
+    <label for="cid">ID:</label>
+    <input type="text" id="cid" class="form-control" value=@e.id asp-for="id">
+  </div>
+  <div class="form-group">
+    <label for="nm">NAME:</label>
+    <input type="text" id="nm" class="form-control" value=@e.name asp-for="name">
+  </div>
+  <div class="form-group">
+    <label for="em">EMAIL:</label>
+    <input type="text" id="em" class="form-control" value=@e.email asp-for="email">
+  </div>
+  <div class="form-group">
+    <label for="cont">CONTACT:</label>
+    <input type="text" id="cont" class="form-control" value=@e.contact asp-for="contact">
+  </div>
+ <div class="form-group">
+   <button type="submit" class="btn btn-danger">Submit</button>
+  </div>
+ 
+</form>

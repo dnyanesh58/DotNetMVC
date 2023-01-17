@@ -1,0 +1,250 @@
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.csproj.AssemblyReference.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.AssemblyInfoInputs.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.AssemblyInfo.cs
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.csproj.CoreCompileInputs.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cs
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\appsettings.Development.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\appsettings.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.staticwebassets.runtime.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.exe
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.deps.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.runtimeconfig.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\NewMvc.pdb
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\MySql.Data.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\ZstdNet.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets\msbuild.NewMvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.NewMvc.props
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NewMvc.props
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NewMvc.props
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\scopedcss\bundle\NewMvc.styles.css
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\scopedcss\projectbundle\NewMvc.bundle.scp.css
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.csproj.CopyComplete
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\refint\NewMvc.dll
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.pdb
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\NewMvc.genruntimeconfig.cache
+C:\Aniket\Cdac\DOTNET\newprojrctexamdotnet\MSVPROJECT\NewMvc\obj\Debug\net7.0\ref\NewMvc.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\appsettings.Development.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\appsettings.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.staticwebassets.runtime.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.exe
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.deps.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.runtimeconfig.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.pdb
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\Google.Protobuf.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\MySql.Data.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\ZstdNet.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.AssemblyReference.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfoInputs.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfo.cs
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CoreCompileInputs.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.MvcApplicationPartsAssemblyInfo.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cs
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.NewMvc.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.build.NewMvc.props
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NewMvc.props
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NewMvc.props
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.pack.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.build.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.development.json
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\bundle\NewMvc.styles.css
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\projectbundle\NewMvc.bundle.scp.css
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CopyComplete
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\refint\NewMvc.dll
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.pdb
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.genruntimeconfig.cache
+E:\dotnetmcv\Solution\MSVPROJECTTT\obj\Debug\net7.0\ref\NewMvc.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\appsettings.Development.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\appsettings.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.staticwebassets.runtime.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.exe
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.deps.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.runtimeconfig.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.pdb
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\Google.Protobuf.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\MySql.Data.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\ZstdNet.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.AssemblyReference.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfoInputs.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfo.cs
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CoreCompileInputs.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.MvcApplicationPartsAssemblyInfo.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cs
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.NewMvc.Microsoft.AspNetCore.StaticWebAssets.props
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.build.NewMvc.props
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NewMvc.props
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NewMvc.props
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.pack.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.build.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.development.json
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\bundle\NewMvc.styles.css
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\projectbundle\NewMvc.bundle.scp.css
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CopyComplete
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\refint\NewMvc.dll
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.pdb
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.genruntimeconfig.cache
+H:\DAC\SDM\Solution\MSVPROJECTTT\obj\Debug\net7.0\ref\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.AssemblyReference.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfoInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.AssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CoreCompileInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.MvcApplicationPartsAssemblyInfo.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\refint\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\appsettings.Development.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\appsettings.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.staticwebassets.runtime.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.exe
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.deps.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.runtimeconfig.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\NewMvc.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\Google.Protobuf.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\MySql.Data.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\ZstdNet.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.NewMvc.Microsoft.AspNetCore.StaticWebAssets.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.build.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.pack.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.build.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\staticwebassets.development.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\bundle\NewMvc.styles.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\scopedcss\projectbundle\NewMvc.bundle.scp.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.csproj.CopyComplete
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\NewMvc.genruntimeconfig.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\MSVPROJECTTT\obj\Debug\net7.0\ref\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\appsettings.Development.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\appsettings.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.staticwebassets.runtime.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.exe
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.deps.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.runtimeconfig.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\NewMvc.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\Google.Protobuf.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\MySql.Data.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\ZstdNet.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.csproj.AssemblyReference.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.AssemblyInfoInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.AssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.csproj.CoreCompileInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.MvcApplicationPartsAssemblyInfo.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.RazorAssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets\msbuild.NewMvc.Microsoft.AspNetCore.StaticWebAssets.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NewMvc.props
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets.pack.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets.build.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\staticwebassets.development.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\scopedcss\bundle\NewMvc.styles.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\scopedcss\projectbundle\NewMvc.bundle.scp.css
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.csproj.CopyComplete
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\refint\NewMvc.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\NewMvc.genruntimeconfig.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\obj\Debug\net7.0\ref\NewMvc.dll

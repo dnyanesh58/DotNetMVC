@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NewMvc
+build_property.RootNamespace = NewMvc
+build_property.ProjectDir = H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_10\CrudMVCDotnet
+build_property._RazorSourceGeneratorDebug = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Crudcontact/find.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J1ZGNvbnRhY3RcZmluZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Crudcontact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J1ZGNvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Crudcontact/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J1ZGNvbnRhY3RcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Crudcontact/Registarion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J1ZGNvbnRhY3RcUmVnaXN0YXJpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Crudcontact/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J1ZGNvbnRhY3RcdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/DAC/LAB SESSIONS/DOTNET_LAB/Day_10/CrudMVCDotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zcu2ewh8rw
